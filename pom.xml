@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http:/43.204.101.240/:9980/sujitha/repository/canarabank-snapshot/</url>
+	      <url>http://43.204.101.240:9980/sujitha/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
